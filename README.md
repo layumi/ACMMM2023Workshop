@@ -44,25 +44,30 @@ Overall, this workshop will provide a unique opportunity to explore the exciting
     + Package Delivery and Logistics
     + Safety and Regulations for UAV-based Transportation
 
-**Reference:**
-
-[1] Kendall A, Gal Y. What uncertainties do we need in bayesian deep learning for computer vision? NeurIPS, 2017.
-
-[2] Zheng Z, Yang Y. Rectifying pseudo label learning via uncertainty estimation for domain adaptive semantic segmentation. IJCV, 2021. 
-
-[3] Four Principles of Explainable Artificial Intelligence (https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8312.pdf)
-
-[4] Zheng, Z., Ruan, T., Wei, Y., Yang, Y., & Mei, T. VehicleNet: Learning robust visual representation for vehicle re-identification. TMM, 2020.
-
-**Tips:**
-- For privacy protection, please blur faces in the published materials (such as paper, video, poster, etc.) 
-- For social good, please do not contain any misleading words, such as ``surveillance`` and  ``secret``.
 
 
 ## Challenge
 We also provide a challenging cross-view geo-localization dataset, called University160k, and the workshop audience may consider to participate the competition. The motivation is to simulate the real- world geo-localization scenario that we usually face an extremely large satellite-view pool. In particular, University160k extends the current University-1652 dataset with extra 167,486 satellite- view gallery distractors. We will release University160k on our website, and make a public leader board. These distractor satellite- view images have a size of 1024 × 1024 and are obtained by cutting orthophoto images of real urban and surrounding areas. The larger image size ensures higher image clarity, while the wider framing range allows the images to contain more diverse scenes, such as buildings, city roads, trees, fields, and more (see Figure 3). In our primary evaluation, the distractor is challenging and make the com- petitive baseline model, LPN, decrease the Recall@1 accuracy from 75.93% to 64.85% and the value of AP from 79.14% to 67.69% in the Drone → Satellite task (Please see Table 2). We hope more audiences can be involved to solve this challenge, and may also consider the efficiency problem against a large candidate pool.
 
-Check challenge details at https://zdzheng.xyz/files/ACMMM23_Workshop_Drone.pdf
+Check challenge details at Section 5 in [https://zdzheng.xyz/files/ACMMM23_Workshop_Drone.pdf](https://zdzheng.xyz/files/ACMMM23_Workshop_Drone.pdf)
+
+The challenge dataset contains two part.
+1. The basic dataset (training/test set) can be download by [Request](https://github.com/layumi/University1652-Baseline/blob/master/Request.md). Usually I will reply the download link in 5 minutes. 
+2. The distractor dataset (add to satellite gallery) is still preparing. 
+
+
+## Submission Types
+In this workshop, we welcome four types of submissions, all of which should relate to the topics and themes as listed in Section 3: 
+
+- (1). Challenge papers (**up to 4 pages in length, plus unlimited pages for references**): original solution to the Challenge data, University160k, in terms of effectiveness and efficiency. 
+- (2). Position or perspective papers (**up to 4 pages in length, plus unlimited pages for references**): original ideas, perspectives, research vision, and open challenges in the area of evaluation approaches for explainable recommender systems; 
+- (3). Featured papers (title and abstract of the paper, plus the original paper): already published papers or papers summarizing existing publications in leading conferences and highimpact journals that are relevant for the topic of the workshop; 
+- (4). Demonstration papers (**up to 2 pages in length, plus unlimited pages for references**): original or already published prototypes and operational evaluation approaches in the area of explainable recommender systems. Page limits include diagrams and appendices. Submissions should be single-blind, written in English, and formatted according to the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the ACM Website (use “sigconf” proceedings template for LaTeX and the Interim Template for Word).
+
+**Tips:**
+- For privacy protection, please blur faces in the published materials (such as paper, video, poster, etc.) 
+- For social good, please do not contain any misleading words, such as ``surveillance`` and  ``secret``.
+
 
 ## News 
 - 6/4/2023 - CFP is released.
