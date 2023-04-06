@@ -69,7 +69,7 @@ Check challenge details at Section 5 in [https://zdzheng.xyz/files/ACMMM23_Works
 
 The challenge dataset contains two part.
 1. The basic dataset (training/test set) can be download by [Request](https://github.com/layumi/University1652-Baseline/blob/master/Request.md). Usually I will reply the download link in 5 minutes. 
-2. The distractor dataset (add to satellite gallery) is still preparing.
+2. The distractor dataset (add to satellite gallery) can be downloaded from [Onedrive](https://hdueducn-my.sharepoint.com/:u:/g/personal/wongtyu_hdu_edu_cn/EY4gu3JwWO9IkAp707N7wT0BkQOXFi-ZSDGnWkG9bad1_A?e=hodpkb).
 
 ## News 
 - 6/4/2023 - CFP is released.
