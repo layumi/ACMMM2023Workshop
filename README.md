@@ -64,16 +64,24 @@ We also provide a challenging cross-view geo-localization dataset, called Univer
 
 Check challenge details at https://zdzheng.xyz/files/ACMMM23_Workshop_Drone.pdf
 
+## News 
+- 6/4/2023 - CFP is released.
+- 6/4/2023 - Workshop homepage is now available.
+
+
 ## Important Dates
 
 **Submission of papers:**
+* Workshop Papers Submission: 5 July 2023
+* Workshop Papers Notification: 30 July 2023
+* Camera-ready Submission: 6 August 2023
+* Conference dates: 28 October 2023 – 3 November 2023
 
-* New Regular Paper Submission deadline: TBD [11:59 p.m. PST]
-* Paper acceptance notification: August 6, 2023
+Please note: The submission deadline is at 11:59 p.m. of the stated deadline date [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
 
 ## Organizing Team
 
-| <img src="./picture/1.png" width="160"> |<img src="https://shiyujiao.github.io/images/YujiaoShiCircle.jpg" width="160"> |<img src="https://github.com/wtyhub/Photo/blob/a713229943f0628ffb82556bc9e396bbfabe8567/1%20inch.jpg" width="160"> |
+| <img src="https://zdzheng.xyz/images/profile.webp" width="160"> |<img src="https://shiyujiao.github.io/images/YujiaoShiCircle.jpg" width="160"> |<img src="https://github.com/wtyhub/Photo/blob/a713229943f0628ffb82556bc9e396bbfabe8567/1%20inch.jpg" width="160"> |
 | :-: | :-: | :-: |
 |  [Zhedong Zheng](zdzheng.xyz), National University of Singapore, Singapore | [Yujiao Shi](https://shiyujiao.github.io/), Australian National University, Australia | [Tingyu Wang](https://scholar.google.com/citations?user=wv3H-F4AAAAJ), Hangzhou Dianzi University, China |
 | <img src="https://istd.sutd.edu.sg/files/xistd-faculty-liu-jun-2021.jpg.pagespeed.ic.kj4jHLG_to.webp" width="160"> |  <img src="https://jwfangit.github.io/img/pic.jpg" width="160"> | <img src="https://weiyc.github.io/images/people/wyc.jpg" width="160"> | 
@@ -84,4 +92,4 @@ Check challenge details at https://zdzheng.xyz/files/ACMMM23_Workshop_Drone.pdf
 
 ## Conference and Journal Papers
 
-All papers presented at ACMMM 2023 will be included in ACM proceeding. All papers submitted to this special session will go through the same review process as the regular papers submitted to the main conference to ensure that the contributions are of high quality. 
+All papers presented at ACMMM 2023 will be included in ACM proceeding. All papers submitted to this workshop will go through the same review process as the regular papers submitted to the main conference to ensure that the contributions are of high quality. 
