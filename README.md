@@ -73,7 +73,7 @@ Check challenge details at https://zdzheng.xyz/files/ACMMM23_Workshop_Drone.pdf
 
 ## Organizing Team
 
-| <img src="./picture/1.png" width="160"> |<img src="https://shiyujiao.github.io/images/YujiaoShiCircle.jpg" width="160"> |<img src="" width="160"> |
+| <img src="./picture/1.png" width="160"> |<img src="https://shiyujiao.github.io/images/YujiaoShiCircle.jpg" width="160"> |<img src="https://github.com/wtyhub/Photo/blob/a713229943f0628ffb82556bc9e396bbfabe8567/1%20inch.jpg" width="160"> |
 | :-: | :-: | :-: |
 |  [Zhedong Zheng](zdzheng.xyz), National University of Singapore, Singapore | [Yujiao Shi](https://shiyujiao.github.io/), Australian National University, Australia | [Tingyu Wang](https://scholar.google.com/citations?user=wv3H-F4AAAAJ), Hangzhou Dianzi University, China |
 | <img src="https://istd.sutd.edu.sg/files/xistd-faculty-liu-jun-2021.jpg.pagespeed.ic.kj4jHLG_to.webp" width="160"> |  <img src="https://jwfangit.github.io/img/pic.jpg" width="160"> | <img src="https://weiyc.github.io/images/people/wyc.jpg" width="160"> | 
