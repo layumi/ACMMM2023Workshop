@@ -16,6 +16,8 @@
 
 The accept papers will be published at ACM Multimedia Workshop (top 50%), and go through the same peer review process as the regular papers. Some authors will be invited to do a oral presentation. 
 
+[[Accepted Workshop Proposal]](https://zdzheng.xyz/files/ACMMM23_Workshop_Drone.pdf)
+
 ## Abstract:
 Unmanned Aerial Vehicles (UAVs), also known as drones, have become increasingly popular in recent years due to their ability to capture high-quality multimedia data from the sky. With the rise of multimedia applications, such as aerial photography, cinematography, and mapping, UAVs have emerged as a powerful tool for gathering rich and diverse multimedia content. This workshop aims to bring together researchers, practitioners, and enthusiasts interested in UAV multimedia to explore the latest advancements, challenges, and opportunities in this exciting field. The workshop will cover various topics related to UAV multimedia, including aerial image and video processing, machine learning for UAV data analysis, UAV swarm technology, and UAV-based multimedia applications. In the context of the ACM Multimedia conference, this workshop is highly relevant as multimedia data from UAVs is becoming an increasingly important source of content for many multimedia applications. The workshop will provide a platform for researchers to share their work and discuss potential collaborations, as well as an opportunity for practitioners to learn about the latest developments in UAV multimedia technology.
 Overall, this workshop will provide a unique opportunity to explore the exciting and rapidly evolving field of UAV multimedia and its potential impact on the wider multimedia community.
@@ -45,6 +47,20 @@ Overall, this workshop will provide a unique opportunity to explore the exciting
     + Safety and Regulations for UAV-based Transportation
 
 
+## Submission Types
+Submission template can be found at [ACM](https://www.acm.org/publications/proceedings-template) or you may directly follow the [overleaf template](https://www.overleaf.com/read/yfpxtyngmzjn).
+
+In this workshop, we welcome four types of submissions, all of which should relate to the topics and themes as listed in Section 3: 
+
+- (1). Position or perspective papers (**up to 4 pages in length, plus unlimited pages for references**): original ideas, perspectives, research vision, and open challenges in the area of evaluation approaches for explainable recommender systems; 
+- (2). Challenge papers (**up to 4 pages in length, plus unlimited pages for references**): original solution to the Challenge data, University160k, in terms of effectiveness and efficiency. 
+- (3). Featured papers (title and abstract of the paper, plus the original paper): already published papers or papers summarizing existing publications in leading conferences and highimpact journals that are relevant for the topic of the workshop; 
+- (4). Demonstration papers (**up to 2 pages in length, plus unlimited pages for references**): original or already published prototypes and operational evaluation approaches in the area of explainable recommender systems. Page limits include diagrams and appendices. Submissions should be single-blind, written in English, and formatted according to the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the ACM Website (use “sigconf” proceedings template for LaTeX and the Interim Template for Word).
+
+**Tips:**
+- For privacy protection, please blur faces in the published materials (such as paper, video, poster, etc.) 
+- For social good, please do not contain any misleading words, such as ``surveillance`` and  ``secret``.
+
 
 ## Challenge
 We also provide a challenging cross-view geo-localization dataset, called University160k, and the workshop audience may consider to participate the competition. The motivation is to simulate the real- world geo-localization scenario that we usually face an extremely large satellite-view pool. In particular, University160k extends the current University-1652 dataset with extra 167,486 satellite- view gallery distractors. We will release University160k on our website, and make a public leader board. These distractor satellite- view images have a size of 1024 × 1024 and are obtained by cutting orthophoto images of real urban and surrounding areas. The larger image size ensures higher image clarity, while the wider framing range allows the images to contain more diverse scenes, such as buildings, city roads, trees, fields, and more (see Figure 3). In our primary evaluation, the distractor is challenging and make the com- petitive baseline model, LPN, decrease the Recall@1 accuracy from 75.93% to 64.85% and the value of AP from 79.14% to 67.69% in the Drone → Satellite task (Please see Table 2). We hope more audiences can be involved to solve this challenge, and may also consider the efficiency problem against a large candidate pool.
@@ -53,21 +69,7 @@ Check challenge details at Section 5 in [https://zdzheng.xyz/files/ACMMM23_Works
 
 The challenge dataset contains two part.
 1. The basic dataset (training/test set) can be download by [Request](https://github.com/layumi/University1652-Baseline/blob/master/Request.md). Usually I will reply the download link in 5 minutes. 
-2. The distractor dataset (add to satellite gallery) is still preparing. 
-
-
-## Submission Types
-In this workshop, we welcome four types of submissions, all of which should relate to the topics and themes as listed in Section 3: 
-
-- (1). Challenge papers (**up to 4 pages in length, plus unlimited pages for references**): original solution to the Challenge data, University160k, in terms of effectiveness and efficiency. 
-- (2). Position or perspective papers (**up to 4 pages in length, plus unlimited pages for references**): original ideas, perspectives, research vision, and open challenges in the area of evaluation approaches for explainable recommender systems; 
-- (3). Featured papers (title and abstract of the paper, plus the original paper): already published papers or papers summarizing existing publications in leading conferences and highimpact journals that are relevant for the topic of the workshop; 
-- (4). Demonstration papers (**up to 2 pages in length, plus unlimited pages for references**): original or already published prototypes and operational evaluation approaches in the area of explainable recommender systems. Page limits include diagrams and appendices. Submissions should be single-blind, written in English, and formatted according to the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the ACM Website (use “sigconf” proceedings template for LaTeX and the Interim Template for Word).
-
-**Tips:**
-- For privacy protection, please blur faces in the published materials (such as paper, video, poster, etc.) 
-- For social good, please do not contain any misleading words, such as ``surveillance`` and  ``secret``.
-
+2. The distractor dataset (add to satellite gallery) is still preparing.
 
 ## News 
 - 6/4/2023 - CFP is released.
@@ -79,8 +81,9 @@ In this workshop, we welcome four types of submissions, all of which should rela
 **Submission of papers:**
 * Workshop Papers Submission: 5 July 2023
 * Workshop Papers Notification: 30 July 2023
+* Student Travel Grants Application Deadline: 5 August 2023 
 * Camera-ready Submission: 6 August 2023
-* Conference dates: 28 October 2023 – 3 November 2023
+* Conference Dates: 28 October 2023 – 3 November 2023
 
 Please note: The submission deadline is at 11:59 p.m. of the stated deadline date [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
 
@@ -98,3 +101,10 @@ Please note: The submission deadline is at 11:59 p.m. of the stated deadline dat
 ## Conference and Journal Papers
 
 All papers presented at ACMMM 2023 will be included in ACM proceeding. All papers submitted to this workshop will go through the same review process as the regular papers submitted to the main conference to ensure that the contributions are of high quality. 
+
+
+## Student Traval Funding
+
+Please check https://www.acmmm2023.org/student-travel-grants/
+
+Application Deadline: August 5, 2023
