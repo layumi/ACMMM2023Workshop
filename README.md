@@ -73,7 +73,8 @@ Check challenge details at Section 5 in [https://zdzheng.xyz/files/ACMMM23_Works
 
 The challenge dataset contains two part.
 1. The basic dataset (training/test set) can be download by [Request](https://github.com/layumi/University1652-Baseline/blob/master/Request.md). Usually I will reply the download link in 5 minutes. 
-2. The distractor dataset (add to satellite gallery) can be downloaded from [Onedrive](https://hdueducn-my.sharepoint.com/:u:/g/personal/wongtyu_hdu_edu_cn/EY4gu3JwWO9IkAp707N7wT0BkQOXFi-ZSDGnWkG9bad1_A?e=hodpkb).
+2. The distractor dataset (add to satellite gallery) can be downloaded from [Onedrive](https://hdueducn-my.sharepoint.com/:u:/g/personal/wongtyu_hdu_edu_cn/EY4gu3JwWO9IkAp707N7wT0BkQOXFi-ZSDGnWkG9bad1_A?e=hodpkb)
+or Baidu Disk(https://pan.baidu.com/s/15TDqJIkEVv2r1fWlLQFLPw Code:78xf).
 
 ## News 
 - 7/4/2023 - Paper submission site is now available.
