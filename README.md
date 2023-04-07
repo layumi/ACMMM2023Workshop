@@ -76,6 +76,7 @@ The challenge dataset contains two part.
 2. The distractor dataset (add to satellite gallery) can be downloaded from [Onedrive](https://hdueducn-my.sharepoint.com/:u:/g/personal/wongtyu_hdu_edu_cn/EY4gu3JwWO9IkAp707N7wT0BkQOXFi-ZSDGnWkG9bad1_A?e=hodpkb).
 
 ## News 
+- 7/4/2023 - Paper submission site is now available.
 - 6/4/2023 - CFP is released.
 - 6/4/2023 - Workshop homepage is now available.
 
