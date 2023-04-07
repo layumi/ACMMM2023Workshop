@@ -117,7 +117,7 @@ Application Deadline: August 5, 2023
 ## Citation
 ```bibtex
 @inproceedings{zheng2022UVA,
-  title={UVA Multimedia Understanding, Drone-based Video Analysis},
+  title={UAVs in Multimedia: Capturing the World from a New Perspective},
   author={Zheng, Zhedong and Shi, Yujiao and Wang, Tingyu and Liu, Jun and Fang, Jianwu and Wei, Yunchao and Chua, Tat-seng},
   booktitle={Proceedings of the 31th ACM International Conference on Multimedia},
   year={2023}
