@@ -113,3 +113,13 @@ All papers presented at ACMMM 2023 will be included in ACM proceeding. All paper
 Please check https://www.acmmm2023.org/student-travel-grants/
 
 Application Deadline: August 5, 2023
+
+## Citation
+```
+@inproceedings{zheng2022UVA,
+  title={UVA Multimedia Understanding, Drone-based Video Analysis},
+  author={Zheng, Zhedong and Shi, Yujiao and Wang, Tingyu and Liu, Jun and Fang, Jianwu and Wei, Yunchao and Chua, Tat-seng},
+  booktitle={Proceedings of the 31th ACM International Conference on Multimedia},
+  year={2023}
+}
+```
