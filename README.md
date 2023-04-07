@@ -80,7 +80,6 @@ The challenge dataset contains two part.
 - 6/4/2023 - CFP is released.
 - 6/4/2023 - Workshop homepage is now available.
 
-
 ## Important Dates
 
 **Submission of papers:**
@@ -114,12 +113,12 @@ Please check https://www.acmmm2023.org/student-travel-grants/
 
 Application Deadline: August 5, 2023
 
-## Citation
+## Workshop Citation
 ```bibtex
 @inproceedings{zheng2022UVA,
   title={UAVs in Multimedia: Capturing the World from a New Perspective},
   author={Zheng, Zhedong and Shi, Yujiao and Wang, Tingyu and Liu, Jun and Fang, Jianwu and Wei, Yunchao and Chua, Tat-seng},
-  booktitle={Proceedings of the 31th ACM International Conference on Multimedia},
+  booktitle={Proceedings of the 31th ACM International Conference on Multimedia Workshop},
   year={2023}
 }
 ```
