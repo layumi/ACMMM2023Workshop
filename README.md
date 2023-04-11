@@ -20,7 +20,7 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 [[Submission Site]](https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/UAVs_in_Multimedia)
 
 
-Join our [Google Group](https://groups.google.com/g/acmmm-2023-participants) for important updates.
+Join our [Google Group](https://groups.google.com/g/acmmm-uvas-2023-participants) for important updates.
 
 ## Abstract
 Unmanned Aerial Vehicles (UAVs), also known as drones, have become increasingly popular in recent years due to their ability to capture high-quality multimedia data from the sky. With the rise of multimedia applications, such as aerial photography, cinematography, and mapping, UAVs have emerged as a powerful tool for gathering rich and diverse multimedia content. This workshop aims to bring together researchers, practitioners, and enthusiasts interested in UAV multimedia to explore the latest advancements, challenges, and opportunities in this exciting field. The workshop will cover various topics related to UAV multimedia, including aerial image and video processing, machine learning for UAV data analysis, UAV swarm technology, and UAV-based multimedia applications. In the context of the ACM Multimedia conference, this workshop is highly relevant as multimedia data from UAVs is becoming an increasingly important source of content for many multimedia applications. The workshop will provide a platform for researchers to share their work and discuss potential collaborations, as well as an opportunity for practitioners to learn about the latest developments in UAV multimedia technology.
