@@ -4,13 +4,14 @@
  </div>
 
  <div align='center' style = "vertical-align:middle"> 
-  <h2> <img src="https://www.acmmm2023.org/wp-content/uploads/2022/12/cropped-cropped-sigmmlogo-1.gif" margn-right="20px" ><a href="https://www.acmmm2023.org/"> ACM MM 2023 </a><a href="https://www.acmmm2023.org/">(https://www.acmmm2023.org/)</a> </h2>
+  <h2> <img src="https://www.acmmm2023.org/wp-content/uploads/2022/12/cropped-cropped-sigmmlogo-1.gif" margn-right="20px" ><a href="https://www.acmmm2023.org/"> ACM MM 2023 </a><a href="https://www.acmmm2023.org/">(https://www.acmmm2023.org/)</a>  </h2>
  </div>
  
  <div align='center' > 
   <h2> Workshop on </h2>
   <h2> UAVs in Multimedia: Capturing the World from a New Perspective
 </h2>
+ <img src="https://github.com/layumi/ACMMM2023Workshop/blob/main/picture/logo.png?raw=true" >
  </div>
 
 
