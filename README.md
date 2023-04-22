@@ -71,14 +71,19 @@ In this workshop, we welcome four types of submissions, all of which should rela
 
 
 ## Challenge
-We also provide a challenging cross-view geo-localization dataset, called University160k, and the workshop audience may consider to participate the competition. The motivation is to simulate the real- world geo-localization scenario that we usually face an extremely large satellite-view pool. In particular, University160k extends the current University-1652 dataset with extra 167,486 satellite- view gallery distractors. We will release University160k on our website, and make a public leader board. These distractor satellite- view images have a size of 1024 × 1024 and are obtained by cutting orthophoto images of real urban and surrounding areas. The larger image size ensures higher image clarity, while the wider framing range allows the images to contain more diverse scenes, such as buildings, city roads, trees, fields, and more (see Figure 3). In our primary evaluation, the distractor is challenging and make the com- petitive baseline model, LPN, decrease the Recall@1 accuracy from 75.93% to 64.85% and the value of AP from 79.14% to 67.69% in the Drone → Satellite task (Please see Table 2). We hope more audiences can be involved to solve this challenge, and may also consider the efficiency problem against a large candidate pool.
+We also provide a challenging cross-view geo-localization dataset, called University160k, and the workshop audience may consider to participate the competition. The motivation is to simulate the real- world geo-localization scenario that we usually face an extremely large satellite-view pool. In particular, University160k extends the current University-1652 dataset with extra 167,486 satellite- view gallery distractors. We will release University160k on our website, and make a public leader board. These distractor satellite- view images have a size of 1024 × 1024 and are obtained by cutting orthophoto images of real urban and surrounding areas. The larger image size ensures higher image clarity, while the wider framing range allows the images to contain more diverse scenes, such as buildings, city roads, trees, fields, and more (see Figure 3). In our primary evaluation, the distractor is challenging and make the competitive baseline model, LPN, decrease the Recall@1 accuracy from 75.93% to 64.85% and the value of AP from 79.14% to 67.69% in the Drone → Satellite task (Please see Table 2). We hope more audiences can be involved to solve this challenge, and may also consider the efficiency problem against a large candidate pool.
 
 Check challenge details at Section 5 in [https://zdzheng.xyz/files/ACMMM23_Workshop_Drone.pdf](https://zdzheng.xyz/files/ACMMM23_Workshop_Drone.pdf)
 
 The challenge dataset contains two part.
-1. The basic dataset (training/test set) can be download by [Request](https://github.com/layumi/University1652-Baseline/blob/master/Request.md). Usually I will reply the download link in 5 minutes. 
-2. The distractor dataset (add to satellite gallery) can be downloaded from [Onedrive](https://hdueducn-my.sharepoint.com/:u:/g/personal/wongtyu_hdu_edu_cn/EY4gu3JwWO9IkAp707N7wT0BkQOXFi-ZSDGnWkG9bad1_A?e=hodpkb), [Google Drive](https://drive.google.com/file/d/1kYUBJazF0gqs2UQD46PvvJgnMVlJMPEs/view),
-or Baidu Disk(https://pan.baidu.com/s/15TDqJIkEVv2r1fWlLQFLPw Code:78xf).
+1. The basic dataset (training set) can be download by [Request](https://github.com/layumi/University1652-Baseline/blob/master/Request.md). Usually I will reply the download link in 5 minutes. 
+
+2. The name-masked test-160k dataset (query & gallery+distractor) can be downloaded from [Onedrive](https://hdueducn-my.sharepoint.com/:f:/g/personal/wongtyu_hdu_edu_cn/EhWkk5hLBfBPpknm0sSPDiAB_SJZdJaXqTU1zRp19APDYQ?e=ummz0M).
+
+(In the future, you also can download the name-unmasked distractor dataset to quiclyt report number in your paper (Please add to satellite gallery) can be downloaded from [Onedrive](https://hdueducn-my.sharepoint.com/:u:/g/personal/wongtyu_hdu_edu_cn/EY4gu3JwWO9IkAp707N7wT0BkQOXFi-ZSDGnWkG9bad1_A?e=hodpkb), [Google Drive](https://drive.google.com/file/d/1kYUBJazF0gqs2UQD46PvvJgnMVlJMPEs/view),
+or Baidu Disk(https://pan.baidu.com/s/15TDqJIkEVv2r1fWlLQFLPw Code:78xf).)
+
+The submission example can be found at [Here](). Please zip it as ``answer.zip'' to submit the result.
 
 ## News 
 - 7/4/2023 - Paper submission site is now available.
