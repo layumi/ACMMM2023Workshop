@@ -23,6 +23,23 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 
 Join our [Google Group](https://groups.google.com/g/acmmm-uvas-2023-participants) for important updates.
 
+## News 
+- 23/4/2023 - Challenge Platform is now available.
+- 7/4/2023 - Paper submission site is now available.
+- 6/4/2023 - CFP is released.
+- 6/4/2023 - Workshop homepage is now available.
+
+## Important Dates
+
+**Submission of papers:**
+* Workshop Papers Submission: 5 July 2023
+* Workshop Papers Notification: 30 July 2023
+* Student Travel Grants Application Deadline: 5 August 2023 
+* Camera-ready Submission: 6 August 2023
+* Conference Dates: 28 October 2023 – 3 November 2023
+
+Please note: The submission deadline is at 11:59 p.m. of the stated deadline date [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
+
 ## Abstract
 Unmanned Aerial Vehicles (UAVs), also known as drones, have become increasingly popular in recent years due to their ability to capture high-quality multimedia data from the sky. With the rise of multimedia applications, such as aerial photography, cinematography, and mapping, UAVs have emerged as a powerful tool for gathering rich and diverse multimedia content. This workshop aims to bring together researchers, practitioners, and enthusiasts interested in UAV multimedia to explore the latest advancements, challenges, and opportunities in this exciting field. The workshop will cover various topics related to UAV multimedia, including aerial image and video processing, machine learning for UAV data analysis, UAV swarm technology, and UAV-based multimedia applications. In the context of the ACM Multimedia conference, this workshop is highly relevant as multimedia data from UAVs is becoming an increasingly important source of content for many multimedia applications. The workshop will provide a platform for researchers to share their work and discuss potential collaborations, as well as an opportunity for practitioners to learn about the latest developments in UAV multimedia technology.
 Overall, this workshop will provide a unique opportunity to explore the exciting and rapidly evolving field of UAV multimedia and its potential impact on the wider multimedia community.
@@ -94,23 +111,6 @@ LJMJGM5vTQM3iRy	ValP4k9neTZffLz	Co1CEWkBhHdTAM2	w2Nk6LrN5p2cF54	FuMp6XdwlRqScG2	
 ```
 Please return the result following the order of query at [Query TXT](https://github.com/layumi/ACMMM2023Workshop/blob/main/query_drone_name.txt)
 It will be 37855 lines.
-
-## News 
-- 23/4/2023 - Challenge Platform is now available.
-- 7/4/2023 - Paper submission site is now available.
-- 6/4/2023 - CFP is released.
-- 6/4/2023 - Workshop homepage is now available.
-
-## Important Dates
-
-**Submission of papers:**
-* Workshop Papers Submission: 5 July 2023
-* Workshop Papers Notification: 30 July 2023
-* Student Travel Grants Application Deadline: 5 August 2023 
-* Camera-ready Submission: 6 August 2023
-* Conference Dates: 28 October 2023 – 3 November 2023
-
-Please note: The submission deadline is at 11:59 p.m. of the stated deadline date [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
 
 ## Organizing Team
 
