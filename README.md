@@ -83,7 +83,14 @@ The challenge dataset contains two part.
 (In the future, you also can download the name-unmasked distractor dataset to quiclyt report number in your paper (Please add to satellite gallery) can be downloaded from [Onedrive](https://hdueducn-my.sharepoint.com/:u:/g/personal/wongtyu_hdu_edu_cn/EY4gu3JwWO9IkAp707N7wT0BkQOXFi-ZSDGnWkG9bad1_A?e=hodpkb), [Google Drive](https://drive.google.com/file/d/1kYUBJazF0gqs2UQD46PvvJgnMVlJMPEs/view),
 or Baidu Disk(https://pan.baidu.com/s/15TDqJIkEVv2r1fWlLQFLPw Code:78xf).)
 
-The submission example can be found at [Here](). Please zip it as ``answer.zip'' to submit the result.
+The submission example can be found at [Baseline Submission](https://github.com/layumi/ACMMM2023Workshop/blob/main/answer.txt). Please zip it as ``answer.zip'' to submit the result.
+
+Please return the top-10 result. 
+For example, the first query is ``Y2HVQvCQIwVmwzq.jpeg''. The first line of returned result in ``answer.txt'' should be as follows:
+```
+LJMJGM5vTQM3iRy	ValP4k9neTZffLz	Co1CEWkBhHdTAM2	w2Nk6LrN5p2cF54	FuMp6XdwlRqScG2	4WVhVPBkr8TJTNJ	y7XiwY8lWpMZNar	AQZgRYUIyvpUnz8	bziEPp56rwI7e7E	qI9WAxrCnbaqjIq
+```
+Please return the result following the order of query at [Query TXT]()
 
 ## News 
 - 7/4/2023 - Paper submission site is now available.
