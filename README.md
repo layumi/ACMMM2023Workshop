@@ -85,12 +85,12 @@ or Baidu Disk(https://pan.baidu.com/s/15TDqJIkEVv2r1fWlLQFLPw Code:78xf).)
 
 The submission example can be found at [Baseline Submission](https://github.com/layumi/ACMMM2023Workshop/blob/main/answer.txt). Please zip it as ``answer.zip'' to submit the result.
 
-Please return the top-10 result. 
-For example, the first query is ``Y2HVQvCQIwVmwzq.jpeg''. The first line of returned result in ``answer.txt'' should be as follows:
+Please return the top-10 satellite names. For example, the first query is ``Y2HVQvCQIwVmwzq.jpeg''. For instance, the first line of returned result in ``answer.txt'' should be the format as follows:
 ```
 LJMJGM5vTQM3iRy	ValP4k9neTZffLz	Co1CEWkBhHdTAM2	w2Nk6LrN5p2cF54	FuMp6XdwlRqScG2	4WVhVPBkr8TJTNJ	y7XiwY8lWpMZNar	AQZgRYUIyvpUnz8	bziEPp56rwI7e7E	qI9WAxrCnbaqjIq
 ```
-Please return the result following the order of query at [Query TXT]()
+Please return the result following the order of query at [Query TXT](https://github.com/layumi/ACMMM2023Workshop/blob/main/query_drone_name.txt)
+It will be 37855 lines.
 
 ## News 
 - 7/4/2023 - Paper submission site is now available.
