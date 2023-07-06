@@ -38,7 +38,7 @@ Join our [Google Group](https://groups.google.com/g/acmmm-uvas-2023-participants
 ## Important Dates
 
 **Submission of papers:**
-* Workshop Papers Submission: ~~5 July 2023~~ 8 July 2023
+* Workshop Papers Submission: ~~5 July 2023~~ 13 July 2023
 * Workshop Papers Notification: 30 July 2023
 * Student Travel Grants Application Deadline: 5 August 2023 
 * Camera-ready Submission: 6 August 2023
