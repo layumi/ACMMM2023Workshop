@@ -1,5 +1,5 @@
 ---
-title: "UAVM'23"
+title: "UAVM 23"
 collection: pages
 permalink: /ACMMM2023Workshop
 author_profile: false
@@ -15,7 +15,7 @@ author_profile: false
  
  <div align='center' > 
   <h2> Workshop on </h2>
-  <h2> UAVs in Multimedia: Capturing the World from a New Perspective
+  <h2> UAVs in Multimedia: Capturing the World from a New Perspective (UAVM 23)
 </h2>
  <img src="https://github.com/layumi/ACMMM2023Workshop/blob/main/picture/logo.png?raw=true" >
  </div>
