@@ -30,10 +30,14 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 Join our [Google Group](https://groups.google.com/g/acmmm-uvas-2023-participants) for important updates.
 
 ## News 
+- 15/7/2023 - Challenge Open-source Code.
 - 23/4/2023 - Challenge Platform is now available.
 - 7/4/2023 - Paper submission site is now available.
 - 6/4/2023 - CFP is released.
 - 6/4/2023 - Workshop homepage is now available.
+
+## Challenge Open-source Codes
+Please check [https://github.com/layumi/UAVM2023](https://github.com/layumi/UAVM2023) 
 
 ## Important Dates
 
