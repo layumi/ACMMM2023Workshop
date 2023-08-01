@@ -146,10 +146,10 @@ Application Deadline: August 5, 2023
 
 ## Workshop Citation
 ```bibtex
-@inproceedings{zheng2022UVA,
-  title={UAVs in Multimedia: Capturing the World from a New Perspective},
+@inproceedings{zheng2023UVA,
+  title={UAVM '23: 2023 Workshop on UAVs in Multimedia: Capturing the World from a New Perspective},
   author={Zheng, Zhedong and Shi, Yujiao and Wang, Tingyu and Liu, Jun and Fang, Jianwu and Wei, Yunchao and Chua, Tat-seng},
   booktitle={Proceedings of the 31th ACM International Conference on Multimedia Workshop},
   year={2023}
-}
+}  
 ```
