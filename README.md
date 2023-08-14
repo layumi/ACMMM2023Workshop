@@ -128,7 +128,7 @@ It will be 37855 lines.
 | :-: | :-: | :-: |
 |  [Zhedong Zheng](zdzheng.xyz), National University of Singapore, Singapore | [Yujiao Shi](https://shiyujiao.github.io/), Australian National University, Australia | [Tingyu Wang](https://scholar.google.com/citations?user=wv3H-F4AAAAJ), Hangzhou Dianzi University, China |
 | <img src="https://istd.sutd.edu.sg/files/xistd-faculty-liu-jun-2021.jpg.pagespeed.ic.kj4jHLG_to.webp" width="160"> |  <img src="https://jwfangit.github.io/img/pic.jpg" width="160"> | <img src="https://weiyc.github.io/images/people/wyc.jpg" width="160"> | 
-|  [Jun Liu](https://istd.sutd.edu.sg/people/faculty/liu-jun), Singapore University of Technology and Design, Singapore |  [Jianwu Fang](www.lotvs.net), Chang'an University, China |  [Yunchao Wei](https://weiyc.github.io), Beijing Jiaotong University, China | 
+|  [Jun Liu](https://istd.sutd.edu.sg/people/faculty/liu-jun), Singapore University of Technology and Design, Singapore |  [Jianwu Fang](https://jwfangit.github.io/), Chang'an University, China |  [Yunchao Wei](https://weiyc.github.io), Beijing Jiaotong University, China | 
 <img src="https://github.com/layumi/ACMMM2023Workshop/blob/main/picture/5.png?raw=true" width="160"> |
 [Tat-Seng Chua](https://www.chuatatseng.com), National University of Singapore, Singapore |
 
