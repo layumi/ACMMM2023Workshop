@@ -126,7 +126,7 @@ It will be 37855 lines.
 
 | <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/1.png?raw=true" width="160"> |<img src="https://shiyujiao.github.io/images/YujiaoShiCircle.jpg" width="160"> |<img src="https://github.com/wtyhub/Photo/blob/a713229943f0628ffb82556bc9e396bbfabe8567/1%20inch.jpg?raw=true" width="160"> |
 | :-: | :-: | :-: |
-|  [Zhedong Zheng](zdzheng.xyz), National University of Singapore, Singapore | [Yujiao Shi](https://shiyujiao.github.io/), Australian National University, Australia | [Tingyu Wang](https://scholar.google.com/citations?user=wv3H-F4AAAAJ), Hangzhou Dianzi University, China |
+|  [Zhedong Zheng](https://zdzheng.xyz), National University of Singapore, Singapore | [Yujiao Shi](https://shiyujiao.github.io/), Australian National University, Australia | [Tingyu Wang](https://scholar.google.com/citations?user=wv3H-F4AAAAJ), Hangzhou Dianzi University, China |
 | <img src="https://istd.sutd.edu.sg/files/xistd-faculty-liu-jun-2021.jpg.pagespeed.ic.kj4jHLG_to.webp" width="160"> |  <img src="https://jwfangit.github.io/img/pic.jpg" width="160"> | <img src="https://weiyc.github.io/images/people/wyc.jpg" width="160"> | 
 |  [Jun Liu](https://istd.sutd.edu.sg/people/faculty/liu-jun), Singapore University of Technology and Design, Singapore |  [Jianwu Fang](https://jwfangit.github.io/), Chang'an University, China |  [Yunchao Wei](https://weiyc.github.io), Beijing Jiaotong University, China | 
 <img src="https://github.com/layumi/ACMMM2023Workshop/blob/main/picture/5.png?raw=true" width="160"> |
