@@ -18,8 +18,9 @@ author_profile: false
   <h2> UAVs in Multimedia: Capturing the World from a New Perspective (UAVM 2023)
 </h2>
  <img src="https://github.com/layumi/ACMMM2023Workshop/blob/main/picture/logo.png?raw=true" >
- </div>
+</div>
 
+<meta name="og:image" content="https://github.com/layumi/ACMMM2023Workshop/blob/main/picture/logo.png?raw=true">
 
 The accept papers will be published at ACM Multimedia Workshop (top 50%), and go through the same peer review process as the regular papers. Several authors will be invited to do a oral presentation. 
 
