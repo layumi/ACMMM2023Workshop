@@ -37,6 +37,14 @@ Join our [Google Group](https://groups.google.com/g/acmmm-uvas-2023-participants
 - 6/4/2023 - CFP is released.
 - 6/4/2023 - Workshop homepage is now available.
 
+## Time
+ 2 Nov 9:30~10:30am (GMT-4)  Nathan Jacobs (Washington University in St. Louis)  (Last 10 minutes will be QA)
+ 2 Nov 10:30~11:30am (GMT-4) Rakesh Kumar (SRI International)  (Last 10 minutes will be QA) 
+ 2 Nov 11:30~11:45am break
+ 2 Nov 11:45~12:00am Challenge 1st-place Winner
+ 2 Nov 12:00~12:15am Challenge 2nd-place Winner
+ 2 Nov 12:15~12:30am Challenge 3rd-place Winner
+
 ## Challenge Open-source Codes
 Please check [https://github.com/layumi/UAVM2023](https://github.com/layumi/UAVM2023) 
 
