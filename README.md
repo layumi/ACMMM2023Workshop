@@ -45,11 +45,11 @@ Join our [Google Group](https://groups.google.com/g/acmmm-uvas-2023-participants
  
  2 Nov 11:30~11:45am break
  
- 2 Nov 11:45~12:00am Challenge 1st-place Winner
+ 2 Nov 11:45~12:00am (GMT-4) Challenge 1st-place Winner ()
  
- 2 Nov 12:00~12:15am Challenge 2nd-place Winner
+ 2 Nov 12:00~12:15am (GMT-4) Challenge 2nd-place Winner ()
  
- 2 Nov 12:15~12:30am Challenge 3rd-place Winner
+ 2 Nov 12:15~12:30am (GMT-4) Challenge 3rd-place Winner ()
 
 ## Challenge Open-source Codes
 Please check [https://github.com/layumi/UAVM2023](https://github.com/layumi/UAVM2023) 
