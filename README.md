@@ -41,9 +41,7 @@ Join our [Google Group](https://groups.google.com/g/acmmm-uvas-2023-participants
 
  2 Nov 9:30~10:30am (GMT-4)  Nathan Jacobs (Washington University in St. Louis)  (Last 10 minutes will be QA)
   
- 2 Nov 10:30~11:30am (GMT-4) 
- **Semantically Guided Collaborative Navigation, 3D Mapping, Planning and Control for Unmanned Platforms**
-Rakesh Kumar (SRI International)  (Last 10 minutes will be QA) 
+ 2 Nov 10:30~11:30am (GMT-4) Rakesh Kumar (SRI International)  (Last 10 minutes will be QA) 
  
  2 Nov 11:30~11:45am break
  
@@ -57,6 +55,24 @@ Rakesh Kumar (SRI International)  (Last 10 minutes will be QA)
 | <img src="https://jacobsn.github.io/images/nathan_jacobs.jpg" width="160"> |<img src="https://www.sri.com/wp-content/uploads/2021/10/Kumar-Web-Portrait-191126-400x400-1-e1636493948651.jpg" width="160"> | 
 | :-: | :-: |
 |  [Nathan Jacobs](https://jacobsn.github.io/), Washington University in St. Louis | [Rakesh Kumar](https://www.sri.com/about/people/rakesh-teddy-kumar), SRI International |  
+
+
+**Talk: Learning to Map Anything, Anywhere, Anytime**
+ 
+Abstract: What might it sound like here? How would you describe this place? Would it be unusual to see a large mammal if I took an early morning walk? These are all questions that are inherently spatial in nature and difficult to answer precisely. This talk explores a new approach to multi-modal remote sensing that shows how we might build a system that supports answering such questions at a global scale, enabling us to understand the Earth with a level of semantic, spatial, and temporal resolution that was previously impossible.
+
+Bio：Nathan Jacobs earned a Ph.D. in Computer Science at Washington University in St. Louis (2010). After many years at the University of Kentucky, he is currently a Professor in the Computer Science & Engineering department at Washington University in St. Louis. Dr. Jacobs' research area is computer vision; his specialty is developing learning-based algorithms and systems for processing large-scale image collections. His current focus is on developing techniques for mining information about people and the natural world from geotagged imagery, including images from social networks, publicly available outdoor webcams, and satellites. His research has been funded by NSF, NIH, DARPA, IARPA, NGA, ARL, AFRL, and Google.
+
+
+**Talk：Semantically Guided Collaborative Navigation, 3D Mapping, Planning and Control for Unmanned Platforms**
+
+Abstract：Classical metric navigation systems use GPS and/ or prior 2D and 3D maps for localization of unmanned platforms. However, these systems do not operate n in GPS challenged or denied environments. Metric map-based navigation systems are also not robust to dynamic scene changes. In this talk, we will describe various methods we have developed to incorporate AI derived semantic information into metric navigation for both ground and aerial robots using data from multiple sensors. Compared to low-level metric features, semantic information is more robust to scene changes over time and can be matched across time/space/platforms. We will also discuss how 3D reference semantic maps can be built.
+Sharing semantic information also reduces bandwidth required for collaboration. Moreover, it enables natural language interaction between humans and mobile platforms. Finally, we will discuss how the semantic information can be used by robots to learn to navigate in unmapped areas much like humans are able to visit and navigate in new, never visited before locales. Our new approach, SayNav, leverages common-sense knowledge from Large Language Models (LLMs) for efficient generalization to complicated navigation tasks in unknown large-scale environments.
+
+Bio：Rakesh “Teddy” Kumar, Ph.D., is Vice President, Information and Computing Sciences and Director of the Center for Vision Technologies at SRI International. In this role, he is responsible for leading research and development of innovative end-to-end vision solutions from image capture to situational understanding that translate into real-world applications such as robotics, intelligence extraction and human computer interaction. He has received the Outstanding Achievement in Technology Development award from his alma mater, University of Massachusetts Amherst, the Sarnoff Presidents Award, and Sarnoff Technical Achievement awards for his work in registration of multi-sensor, multi-dimensional medical images and alignment of video to three-dimensional scene models. The paper “Stable Vision-Aided Navigation for Large-Area Augmented Reality” co-authored by him received the best paper award in the IEEE Virtual Reality 2011 conference. The paper “Augmented Reality Binoculars” co-authored by him received the best paper award in the IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2013 conference. 
+Kumar has served on NSF review and DARPA ISAT panels. He has also been an associate editor for IEEE Transactions on Pattern Analysis and Machine Intelligence. He has co-authored more than 60 research publications, and received more than 50 patents. A number of spin-off companies have been created based on the research done at the Center for Vision Technologies. Kumar received his Ph.D. in Computer Science from the University of Massachusetts at Amherst in 1992. His M.S. in Electrical and Computer Engineering is from State University of New York at Buffalo in 1995, and his B.Tech in Electrical Engineering is from Indian Institute of Technology, Kanpur, India in 1983.
+
+
 
 ## Winners
 1. **Fabian Deuser<sup>1</sup>, Konrad Habel1, Martin Werner<sup>2</sup>, Norbert Oswald<sup>1</sup>** (<sup>1</sup>University of the Bundeswehr Munich, <sup>2</sup>Technische Universität München)
