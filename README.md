@@ -41,7 +41,9 @@ Join our [Google Group](https://groups.google.com/g/acmmm-uvas-2023-participants
 
  2 Nov 9:30~10:30am (GMT-4)  Nathan Jacobs (Washington University in St. Louis)  (Last 10 minutes will be QA)
   
- 2 Nov 10:30~11:30am (GMT-4) Rakesh Kumar (SRI International)  (Last 10 minutes will be QA) 
+ 2 Nov 10:30~11:30am (GMT-4) 
+ **Semantically Guided Collaborative Navigation, 3D Mapping, Planning and Control for Unmanned Platforms**
+Rakesh Kumar (SRI International)  (Last 10 minutes will be QA) 
  
  2 Nov 11:30~11:45am break
  
@@ -50,6 +52,11 @@ Join our [Google Group](https://groups.google.com/g/acmmm-uvas-2023-participants
  2 Nov 12:00~12:15am (GMT-4) Challenge 2nd-place Winner ()
  
  2 Nov 12:15~12:30am (GMT-4) Challenge 3rd-place Winner ()
+
+## Speaker
+| <img src="https://jacobsn.github.io/images/nathan_jacobs.jpg" width="160"> |<img src="https://www.sri.com/wp-content/uploads/2021/10/Kumar-Web-Portrait-191126-400x400-1-e1636493948651.jpg" width="160"> | 
+| :-: | :-: |
+|  [Nathan Jacobs](https://jacobsn.github.io/), Washington University in St. Louis | [Rakesh Kumar](https://www.sri.com/about/people/rakesh-teddy-kumar), SRI International |  
 
 ## Challenge Open-source Codes
 Please check [https://github.com/layumi/UAVM2023](https://github.com/layumi/UAVM2023) 
