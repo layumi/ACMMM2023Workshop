@@ -47,16 +47,24 @@ Rakesh Kumar (SRI International)  (Last 10 minutes will be QA)
  
  2 Nov 11:30~11:45am break
  
- 2 Nov 11:45~12:00am (GMT-4) Challenge 1st-place Winner ()
+ 2 Nov 11:45~12:00am (GMT-4) Challenge 1st-place Winner 
  
- 2 Nov 12:00~12:15am (GMT-4) Challenge 2nd-place Winner ()
+ 2 Nov 12:00~12:15am (GMT-4) Challenge 2nd-place Winner 
  
- 2 Nov 12:15~12:30am (GMT-4) Challenge 3rd-place Winner ()
+ 2 Nov 12:15~12:30am (GMT-4) Challenge 3rd-place Winner 
 
-## Speaker
+## Invited Speakers
 | <img src="https://jacobsn.github.io/images/nathan_jacobs.jpg" width="160"> |<img src="https://www.sri.com/wp-content/uploads/2021/10/Kumar-Web-Portrait-191126-400x400-1-e1636493948651.jpg" width="160"> | 
 | :-: | :-: |
 |  [Nathan Jacobs](https://jacobsn.github.io/), Washington University in St. Louis | [Rakesh Kumar](https://www.sri.com/about/people/rakesh-teddy-kumar), SRI International |  
+
+## Winners
+1. **Fabian Deuser<sup>1</sup>, Konrad Habel1, Martin Werner<sup>2</sup>, Norbert Oswald<sup>1</sup>** (<sup>1</sup>University of the Bundeswehr Munich, <sup>2</sup>Technische Universität München)
+
+2. **Zhifeng Lin<sup>1,2</sup>, Ranran Huang<sup>1</sup>, Jiancheng Cai<sup>1</sup>, Xinmin Liu<sup>1</sup>, Changxing Ding<sup>2</sup>, Zhenhua Chai<sup>1</sup>** (<sup>1</sup>Meituan, <sup>2</sup>South China University of Technology)
+
+3. **Haoran Li, Quan Chen, Zhiwen Yang, Jiong Yin** (Hangzhou Dianzi University)
+
 
 ## Challenge Open-source Codes
 Please check [https://github.com/layumi/UAVM2023](https://github.com/layumi/UAVM2023) 
