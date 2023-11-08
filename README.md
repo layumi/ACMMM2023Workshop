@@ -41,8 +41,12 @@ Join our [Google Group](https://groups.google.com/g/acmmm-uvas-2023-participants
 ## Workshop Schedule
 
  2 Nov 9:30~10:30am (GMT-4)  Nathan Jacobs (Washington University in St. Louis)  (Last 10 minutes will be QA)
+
+The talk slides can be found at [[link]](https://www.zdzheng.xyz/files/Talk-Nathan-Jacobs.pdf).
   
  2 Nov 10:30~11:30am (GMT-4) Rakesh Kumar (SRI International)  (Last 10 minutes will be QA) 
+
+The talk slides can be found at [[link]](https://www.zdzheng.xyz/files/Kumar%20Keynote%20ACM%20MM%20UAV%20MM%20workshop%202023.pdf).
  
  2 Nov 11:30~11:45am break
  
