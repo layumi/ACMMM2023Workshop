@@ -21,6 +21,7 @@ author_profile: false
 </div>
 
 <meta name="og:image" content="https://github.com/layumi/ACMMM2023Workshop/blob/main/picture/logo.png?raw=true">
+<meta name="og:description" content="UAVs in Multimedia: Capturing the World from a New Perspective (UAVM 2023)"> 
 
 The accept papers will be published at ACM Multimedia Workshop (top 50%), and go through the same peer review process as the regular papers. Several authors will be invited to do a oral presentation. 
 
