@@ -32,6 +32,7 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 Join our [Google Group](https://groups.google.com/g/acmmm-uvas-2023-participants) for important updates.
 
 ## News 
+- The 2nd workshop 2024 is at https://www.zdzheng.xyz/ACMMM2024Workshop-UAV/ . 
 - 28/10/2023 - All proceeding papers can be found at [ACM Website](https://dl.acm.org/doi/proceedings/10.1145/3607834)
 - 15/7/2023 - Challenge Open-source Code.
 - 23/4/2023 - Challenge Platform is now available.
