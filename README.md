@@ -178,7 +178,7 @@ It will be 37855 lines.
 
 ## Organizing Team
 
-| <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/1.png?raw=true" width="160"> |<img src="https://yujiaoshi.github.io/images/YujiaoShiCircle.jpg" width="160"> |<img src="https://github.com/wtyhub/Photo/blob/a713229943f0628ffb82556bc9e396bbfabe8567/1%20inch.jpg?raw=true" width="160"> |
+| <img src="https://www.zdzheng.xyz/images/mstile-150x150.webp" width="160"> |<img src="https://yujiaoshi.github.io/images/YujiaoShiCircle.jpg" width="160"> |<img src="https://zdzheng.xyz/coauthors/tingyu-wang.jpeg" width="160"> |
 | :-: | :-: | :-: |
 |  [Zhedong Zheng](https://zdzheng.xyz), National University of Singapore, Singapore | [Yujiao Shi](https://yujiaoshi.github.io/), Australian National University, Australia | [Tingyu Wang](https://scholar.google.com/citations?user=wv3H-F4AAAAJ), Hangzhou Dianzi University, China |
 | <img src="https://istd.sutd.edu.sg/files/xistd-faculty-liu-jun-2021.jpg.pagespeed.ic.kj4jHLG_to.webp" width="160"> |  <img src="https://jwfangit.github.io/img/pic.jpg" width="160"> | <img src="https://weiyc.github.io/images/people/wyc.jpg" width="160"> | 
